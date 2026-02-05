@@ -33,5 +33,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/dp0sk/Crosspipe.git
-        tag: 0.1.1
-        commit: 2d40194ea6a33eb10e3f482382d2b81a17c6ac7b
+        commit: 43c626119f0c2fd2a0eabf9f0698f43bf467cb3d
